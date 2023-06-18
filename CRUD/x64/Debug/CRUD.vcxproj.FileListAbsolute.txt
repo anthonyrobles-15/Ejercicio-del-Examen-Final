@@ -1,0 +1,27 @@
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\PROYECTO FINAL\CRUD\CRUD\x64\Debug\CRUD.vcxproj.AssemblyReference.cache
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\PROYECTO FINAL\CRUD\CRUD\x64\Debug\CRUD.vcxproj.SuggestedBindingRedirects.cache
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\PROYECTO FINAL\CRUD\CRUD\x64\Debug\CRUD.Form1.resources
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\PROYECTO FINAL\CRUD\CRUD\x64\Debug\CRUD.vcxproj.GenerateResource.cache
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\PROYECTO FINAL\CRUD\CRUD\x64\Debug\CRUD.vcxproj.CopyComplete
+C:\Users\DELL\Documents\HUGO\3ER. SEMESTRE\PROGRAMACION I\TEMAS EN CLASE\CRUD\CRUD\x64\Debug\CRUD.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Documents\HUGO\3ER. SEMESTRE\PROGRAMACION I\TEMAS EN CLASE\CRUD\CRUD\x64\Debug\CRUD.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\HUGO\3ER. SEMESTRE\PROGRAMACION I\TEMAS EN CLASE\CRUD\CRUD\x64\Debug\CRUD.Form1.resources
+C:\Users\DELL\Documents\HUGO\3ER. SEMESTRE\PROGRAMACION I\TEMAS EN CLASE\CRUD\CRUD\x64\Debug\CRUD.vcxproj.GenerateResource.cache
+C:\Users\DELL\Documents\HUGO\3ER. SEMESTRE\PROGRAMACION I\TEMAS EN CLASE\CRUD\CRUD\x64\Debug\CRUD.vcxproj.CopyComplete
+C:\Users\DELL\Documents\HUGO\3ER. SEMESTRE\PROGRAMACION I\TEMAS EN CLASE\CRUD\CRUD\x64\Debug\CRUD.modificar.resources
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\CRUD\CRUD\x64\Debug\CRUD.vcxproj.AssemblyReference.cache
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\CRUD\CRUD\x64\Debug\CRUD.vcxproj.SuggestedBindingRedirects.cache
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\CRUD\CRUD\x64\Debug\CRUD.Form1.resources
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\CRUD\CRUD\x64\Debug\CRUD.modificar.resources
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\CRUD\CRUD\x64\Debug\CRUD.vcxproj.GenerateResource.cache
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\CRUD\CRUD\x64\Debug\CRUD.vcxproj.CopyComplete
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\CRUD\CRUD\x64\Debug\CRUD.LOGIN.resources
+D:\HUGO\3ER. SEMESTRE\PROGRAMACION I\UNIDAD III\CRUD\CRUD\x64\Debug\CRUD.contraseña.resources
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\x64\Debug\CRUD.vcxproj.AssemblyReference.cache
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\x64\Debug\CRUD.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\x64\Debug\CRUD.contraseña.resources
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\x64\Debug\CRUD.Form1.resources
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\x64\Debug\CRUD.LOGIN.resources
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\x64\Debug\CRUD.modificar.resources
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\x64\Debug\CRUD.vcxproj.GenerateResource.cache
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\x64\Debug\CRUD.vcxproj.CopyComplete

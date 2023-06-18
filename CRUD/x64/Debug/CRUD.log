@@ -1,0 +1,9 @@
+﻿  CppCLR_WinFormsProject.cpp
+  Login.cpp
+  Registroescuela.cpp
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\Registroescuela.cpp(37,20): warning C4101: 'dataReader': variable local sin referencia
+  contraseña.cpp
+  modificar.cpp
+  Generando código...
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  CRUD.vcxproj -> C:\Users\pc\Downloads\CRUD\CRUD\x64\Debug\CRUD.exe
